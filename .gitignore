@@ -1,3 +1,7 @@
+# JetBrains CLion
+cmake-build-debug/
+.idea/
+
 # Prerequisites
 *.d
 
